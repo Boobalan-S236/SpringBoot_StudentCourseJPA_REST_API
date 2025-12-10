@@ -1,5 +1,11 @@
 # SpringBoot_StudentCourseJPA_REST_API
 
+Note
+This entire project is fully created and implemented by me. No AI tools or chatbots were used to build the project.
+
+Author
+    Boobalan S
+
 Student–Course Management System (Spring Boot + JPA + REST API)
 
 This project is a simple Spring Boot REST API application that manages Students and Courses using Spring Data JPA. It supports full CRUD operations for both entities.
@@ -95,7 +101,3 @@ Model/
 Repository/
 Service/
 StudentCourseWithJpaApplication.java
-
-Author
-
-Boobalan S
