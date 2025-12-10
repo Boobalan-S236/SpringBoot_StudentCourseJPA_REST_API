@@ -1,9 +1,11 @@
 # SpringBoot_StudentCourseJPA_REST_API
 
 Note
+
 This entire project is fully created and implemented by me. No AI tools or chatbots were used to build the project.
 
 Author
+
     Boobalan S
 
 Student–Course Management System (Spring Boot + JPA + REST API)
